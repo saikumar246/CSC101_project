@@ -1,0 +1,11 @@
+dog
+deer
+lion
+bear
+horse
+
+
+
+cow
+leopard
+whale
